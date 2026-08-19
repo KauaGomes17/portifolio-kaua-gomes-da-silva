@@ -18,7 +18,7 @@ Tenho conhecimentos em redes de computadores, hardware e software, Windows, Linu
 Sou proativo, organizado, comunicativo e tenho facilidade para aprender, sempre buscando evoluir meus conhecimentos em tecnologia.
 * **Habilidades Técnicas:** [Ex: Python.].
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva, proatividade, responsabilidade e, resolução de problemas.
-* **Experiência/Projetos Relevantes:** Não tenho atualmente.
+* **Experiência/Projetos Relevantes:** Atendimento ao cliente, trabalho em equipe, organização e comunicação, conhecimentos em TI, projetos em python, projetos de redes de computadores
  
 ---
  
