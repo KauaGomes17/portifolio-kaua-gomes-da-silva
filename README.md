@@ -11,7 +11,11 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o 1º período de Ciência da Computação na UNICID. Tenho paixão por tecnologia desde a infância, e tenho o sonho de seguir carreira na área de TI.
+Sou estudante do 2º semestre de Ciência da Computação na UNICID, com interesse em tecnologia e desenvolvimento profissional na área de TI.
+
+Tenho conhecimentos em redes de computadores, hardware e software, Windows, Linux e segurança da informação. Também possuo experiência com atendimento ao cliente, desenvolvida trabalhando como garçom/cumim.
+
+Sou proativo, organizado, comunicativo e tenho facilidade para aprender, sempre buscando evoluir meus conhecimentos em tecnologia.
 * **Habilidades Técnicas:** [Ex: Python.].
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva, proatividade, responsabilidade e, resolução de problemas.
 * **Experiência/Projetos Relevantes:** Não tenho atualmente.
